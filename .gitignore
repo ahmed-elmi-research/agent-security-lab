@@ -1,0 +1,12 @@
+# Local secrets and unpublished material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+.DS_Store
+private/
+local-runs/
+.claude/settings.local.json

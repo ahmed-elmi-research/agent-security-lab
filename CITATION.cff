@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite Ahmed Elmi and the specific commit."
+title: "AI Agent Security Research"
+authors:
+  - family-names: "Elmi"
+    given-names: "Ahmed"
+repository-code: "https://github.com/cartonn/ahmed-elmi-agent-security"
+license: MIT
+type: software
