@@ -1,9 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this research, please cite Ahmed Elmi and the specific commit."
-title: "AI Agent Security Research"
+title: "Agent Security Lab"
 authors:
   - family-names: "Elmi"
     given-names: "Ahmed"
-repository-code: "https://github.com/ahmed-elmi-research/ahmed-elmi-agent-security"
+repository-code: "https://github.com/ahmed-elmi-research/agent-security-lab"
 license: MIT
+# Repository category for the planned lab; reassess for the first substantive release.
 type: software
+abstract: "Early-stage learning and research scaffold for agent security; no executable research software or validated experimental results yet. Cite the specific commit used."

@@ -18,3 +18,18 @@
 - Mijn voorspelling vóór de proef, met zekerheid 0–100%:
 - Wat ik daadwerkelijk waarnam:
 - Kwam dat overeen, en wat kan ik hieruit wel/niet concluderen?
+
+## 24 november 2026 — onderzoeksprofiel en publicatieroute
+- Ahmed koos voor Ahmed Elmi Research met de repo Agent Security Lab.
+- Onderzoeksrichting en mijlpalen vastgelegd; gerelateerde literatuur vroeg vergelijken.
+- Publicatieroute en experimentensjabloon toegevoegd; eigen werk en AI-hulp apart vermelden.
+- Claude Code gaf strategisch advies; dit is AI-kritiek, geen externe menselijke peerreview.
+- Les 1 blijft open. Geen voorspelling namens Ahmed ingevuld en geen proef uitgevoerd.
+
+- Claude Code controleerde de nieuwe documenten: geen blokkerende bevindingen. Reviewstatus en leesafspraken verduidelijkt.
+
+## 24 november 2026 — betrouwbare onderzoeksmethode
+- Codex raadpleegde primaire bronnen van NIST en Anthropic en het abstract/metadata van Rabanser e.a. (v3).
+- Claude Code gaf methodologische kritiek op de aangeleverde bronsamenvattingen en het onderzoeksplan; Claude heeft die bronnen niet zelf geopend.
+- Werkwijze vastgelegd in research/RELIABILITY.md: meetinstrument controleren, verkenning scheiden van bevestiging, mislukte runs bewaren, taakvoltooiing en overtredingen apart meten.
+- Experiment 001 expliciet als leerproef aangemerkt; algemene betrouwbaarheid en menselijke review zijn nog niet aangetoond.

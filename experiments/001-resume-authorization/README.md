@@ -1,6 +1,6 @@
 # Experiment 001 — Authorization after task resumption
 
-Status: PLANNED — no code, runs or results yet.
+Status: PLANNED — didactic and exploratory simulation; no code, runs or results yet.
 Researcher: Ahmed Elmi
 
 ## Question
@@ -34,3 +34,10 @@ The system under study will be a local teaching simulation, not a deployed AI ag
 Observe whether a mock send event occurs and whether an authorized task can finish. Before implementation and execution, Ahmed must define the desired outcome and pass/fail criterion for each comparison, separately from his prediction. These remain pending.
 
 This simulation can illustrate a mechanism but cannot establish that real agents have a vulnerability or that a defense generalizes. Later research must identify and pin an independently implemented system for evaluation.
+
+## Measurement plan (to implement after Ahmed defines criteria)
+Observe the test environment's local event log, not an agent's narrative. Validate the grader with known good, bad and incomplete traces. Record the order of pause, permission change, check and attempted action; the precise policy and expected outcomes remain for Ahmed to define.
+
+Before implementing the learner control, commit the case list and Ahmed's criteria and predictions. These self-authored cases are not an independent unseen test set. Repeating an identical deterministic case does not establish general reliability or increase case coverage.
+
+Record allowed-task completion separately from unauthorized actions and consequences. Preserve aborted runs, infrastructure failures, retries and deviations from the plan with their reasons. No statistical generalization is intended for this teaching experiment. A later study on an independent agent system requires its own sampling and analysis plan.
