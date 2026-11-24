@@ -22,7 +22,7 @@ Public research documentation is in English; tutoring and learning notes are in 
 Write a prediction before running a test. Record the exact commit, environment, command, inputs, observed outputs, and limitations. Include legitimate tasks as controls. Separate observations from interpretations. Publish negative results too. Never label a proposed experiment as completed.
 
 ## AI assistance
-Codex assists with setup and tutoring. Claude Code is intended as an independent reviewer; no Claude review has been completed yet. Ahmed owns the research decisions and explanations. Record substantive AI assistance with each experiment. A model's agreement is not experimental evidence.
+Codex assists with setup and tutoring. Claude Code reviewed the initial scaffold on 24 November 2026. Its suggestions informed the distinction between desired behavior and predicted behavior, the controls, and the learning journal. No experiment has run. Ahmed owns the research decisions and explanations. Record substantive AI assistance with each experiment. A model's agreement is not experimental evidence.
 
 ## References
 - [GitHub repository best practices](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)

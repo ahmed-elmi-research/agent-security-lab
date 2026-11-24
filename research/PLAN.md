@@ -4,7 +4,7 @@ Author: Ahmed Elmi
 Status: planned
 
 ## First block: 30 research hours
-1. Understand the task lifecycle and distinguish saved state from current authorization.
+1. Discuss the task lifecycle after Ahmed answers lesson 1. Separate desired behavior from a prediction of observed behavior.
 2. Inspect the original Hervat lab when available; establish the actual starting point.
 3. Predict and test behavior in a local simulation with synthetic data.
 4. Compare interrupted and uninterrupted tasks, including legitimate completion.
